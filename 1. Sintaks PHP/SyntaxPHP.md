@@ -1,23 +1,26 @@
 <img style="display: block;
            margin-left: auto;
            margin-right: auto;"
-           src="./img/php.png" alt="PHP Logo">
+           src="../img/php.png" alt="PHP Logo">
 </img>
 
 # Syntax PHP Dasar
 
 Pembelajaran Syntax PHP untuk menggunakan PHP Dasar.
 
-Referensi pembelajaran didapatkan dari kanal Youtube Web Programming UNPAS, yang diambil dari [tautan](https://www.youtube.com/watch?v=XTrU0GzMfCk&list=PLFIM0718LjIUqXfmEIBE3-uzERZPh3vp6&index=4) ini.
+Referensi pembelajaran didapatkan dari kanal Youtube Web Programming UNPAS, yang diambil dari video [ini](https://www.youtube.com/watch?v=XTrU0GzMfCk&list=PLFIM0718LjIUqXfmEIBE3-uzERZPh3vp6&index=4).
 
 ## Konten
 
 ### Output PHP
 
-<table style="margin-left: auto; margin-right: auto;">
+<table style="margin-left: auto; margin-right: auto; " width="100%">
 
-<tr> <th>sintaks</th> <th>fungsi</th> </tr>
-<tr> <td><b>echo</b></td> <td> standart output untuk menampilkan sesuatu ke layar. Dapat digunakan untuk angka atau integer dan boolean, tetapi untuk <b>boolean false</b> akan menghasilkan kosong. </td> </tr>
+<tr>
+<th style="text-align: center;">sintaks</th>
+<th style="text-align: center;">fungsi</th>
+</tr>
+<tr><td><b>echo</b></td> <td> standar output untuk menampilkan sesuatu ke layar. Dapat digunakan untuk angka atau integer dan boolean, tetapi untuk <b>boolean false</b> akan menghasilkan kosong. </td> </tr>
 <tr> <td><b>print</b></td> <td>sama dengan echo</td> </tr>
 <tr> <td><b>print_r()</b></td> <td>sama dengan echo</td> </tr>
 <tr> <td><b>var_dump()</b></td> <td>menampilkan didepan output terdapat tipe data dan panjang data</td> </tr>
@@ -102,15 +105,20 @@ echo $nama_depan." ".$nama_belakang;
 
 - `Assignment`
 
-<table style="margin-left: auto; margin-right: auto;">
-<tr> <th>Operator</th> <th>fungsi</th> </tr>
+<table style="margin-left: auto; margin-right: auto; text-align: center;" width="100%">
+
+<tr>
+<th style="text-align: center;">Operator</th>
+<th style="text-align: center;">fungsi</th>
+</tr>
 <tr> <td><b>=</b></td> <td> Mengeluarkan hasil </td> </tr>
 <tr> <td><b>+=</b></td> <td> Menambahkan data </td> </tr>
 <tr> <td><b>-=</b></td> <td> Mengurangi data </td> </tr>
 <tr> <td><b>*=</b></td> <td> mengkalikan data </td> </tr>
-<tr> <td><b>/=</b></td> <td> membagi data </td> </tr>
-<tr> <td><b>%=</b></td> <td> Habis dibagi </td> </tr>
+<tr> <td><b>/=</b></td> <td> habis dibagi </td> </tr>
+<tr> <td><b>%=</b></td> <td> sisa dibagi </td> </tr>
 <tr> <td><b>.=</b></td> <td> Menambahkan pada akhir data </td> </tr>
+
 </table>
 
 ```php
@@ -131,13 +139,18 @@ echo $y; // menghasilkan "untuk string"
 
 - `Perbandingan`
 
-<table style="margin-left: auto; margin-right: auto;">
-<tr> <th>Operator</th> <th>fungsi</th> </tr>
+<table style="margin-left: auto; margin-right: auto; text-align: center;" width="100%">
+
+<tr>
+<th style="text-align: center;">Operator</th>
+<th style="text-align: center;">fungsi</th>
+</tr>
 <tr> <td><b><</b></td> <td> lebih kecil </td> </tr>
 <tr> <td><b>></b></td> <td> lebih besar </td> </tr>
 <tr> <td><b><=</b></td> <td> lebih kecil sama dengan </td> </tr>
 <tr> <td><b>>=</b></td> <td> lebih besar sama dengan </td> </tr>
-<tr> <td><b>==</b></td> <td> sama degan </td> </tr>
+<tr> <td><b>==</b></td> <td> sama dengan </td> </tr>
+
 </table>
 
 ```php
@@ -157,11 +170,13 @@ var_dump(1 === "1");
 
 - `Logika`
 
-<table style="margin-left: auto; margin-right: auto;">
-<tr> <th>Operator</th> <th>fungsi</th> </tr>
+<table style="margin-left: auto; margin-right: auto; text-align: center; center-tiem" width="100%">
+
+<tr> <th style="text-align: center;">Operator</th> <th style="text-align: center;">fungsi</th> </tr>
 <tr> <td><b>&&</b></td> <td> AND </td> </tr>
 <tr> <td><b>||</b></td> <td> OR </td> </tr>
 <tr> <td><b>!</b></td> <td> NOT </td> </tr>
+
 </table>
 
 ```php
