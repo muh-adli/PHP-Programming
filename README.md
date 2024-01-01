@@ -13,11 +13,11 @@ Semua pembelajaran ini saya dapatkan dari kanal Youtube Web Programming UNPAS de
 
 ### PHP Dasar
 
-1. [Sintaks Dasar](/1.%20Sintaks%20PHP/SyntaxPHP.md)
-2. [Struktur Kendali](/2.%20Stuktur%20Kendali/StrukturKendali.md)
+1. [Sintaks Dasar](/1.%20Sintaks%20PHP/Sinktaks%20PHP.md)
+2. [Struktur Kendali](/2.%20Stuktur%20Kendali/Struktur%20Kendali.md)
 3. [Fungsi](/3.%20Fungsi/Fungsi.md)
 4. [Array](/4.%20Array/Array.md)
-5. [Associative Array]() Coming soon...
+5. [Associative Array](/5.%20Associative%20Array/Associative%20Array.md)
 6. [Get & Post]() Coming soon...
 7. [Database & MySQL]() Coming soon...
 8. [Insert & Delete]() Coming soon...
@@ -34,3 +34,6 @@ Semua pembelajaran ini saya dapatkan dari kanal Youtube Web Programming UNPAS de
 19. [Web Hosting & Domain]() Coming soon...
 
 ### Laravel Framework
+
+# Coming soon...
+
