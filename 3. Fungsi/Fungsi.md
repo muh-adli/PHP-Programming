@@ -4,7 +4,7 @@
            src="../img/php.png" alt="PHP Logo">
 </img>
 
-# Struktur Kendali PHP
+# Function PHP
 
 Pembelajaran Function atau fungsi pada bahasa pemograman PHP.
 
