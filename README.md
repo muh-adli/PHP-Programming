@@ -9,6 +9,10 @@ Repository ini adalah pembelajaran saya yang dituangkan dalam bentuk kode serta 
 
 Semua pembelajaran ini saya dapatkan dari kanal Youtube Web Programming UNPAS dengan tautan playlist [ini](https://www.youtube.com/playlist?list=PLFIM0718LjIUqXfmEIBE3-uzERZPh3vp6).
 
+## How to Use
+
+Coming soon...
+
 ## Table of Content
 
 ### PHP Dasar
@@ -20,7 +24,7 @@ Semua pembelajaran ini saya dapatkan dari kanal Youtube Web Programming UNPAS de
 5. [Associative Array](/5.%20Associative%20Array/Associative%20Array.md)
 6. [Get & Post](/6.%20Get%20&%20Post/6.%20Get%20&%20Post.md)
 7. [Database & MySQL](/7.%20mysql/7.%20mysql.md)
-8. [PHP & MySQL]() Coming soon...
+8. [PHP & MySQL](/8.%20%20PHP%20&%20MySQL/8.%20PHP%20MySQL.md)
 9. [Insert & Delete]() Coming soon...
 10. [Update]() Coming soon...
 11. [Searching]() Coming soon...
@@ -36,5 +40,9 @@ Semua pembelajaran ini saya dapatkan dari kanal Youtube Web Programming UNPAS de
 
 ### Laravel Framework
 
-# Coming soon...
+Coming soon...
 
+### Case Study
+
+1. [ERP System]()
+2. [Coming Soon]()
